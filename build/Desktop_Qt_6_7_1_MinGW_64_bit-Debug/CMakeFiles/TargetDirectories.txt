@@ -1,0 +1,5 @@
+D:/QT/Observ/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/Observatory.dir
+D:/QT/Observ/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/QT/Observ/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/QT/Observ/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/Observatory_autogen_timestamp_deps.dir
+D:/QT/Observ/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/Observatory_autogen.dir

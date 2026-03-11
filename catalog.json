@@ -1,0 +1,1063 @@
+{
+  "metadata": {
+    "name": "Любительский астрономический каталог",
+    "version": "1.0",
+    "description": "Объекты, доступные для наблюдения в любительские телескопы",
+    "total_objects": 250
+  },
+  "objects": [
+    {
+      "name": "M1 (Крабовидная туманность)",
+      "type": "Остаток сверхновой",
+      "declination": 22.0145,
+      "angularSize": 6.0,
+      "magnitude": 8.4,
+      "rightAscension": 5.5833,
+      "catalogId": "M1"
+    },
+    {
+      "name": "M2",
+      "type": "Шаровое скопление",
+      "declination": -0.8167,
+      "angularSize": 13.0,
+      "magnitude": 6.5,
+      "rightAscension": 21.5833,
+      "catalogId": "M2"
+    },
+    {
+      "name": "M3",
+      "type": "Шаровое скопление",
+      "declination": 28.3833,
+      "angularSize": 18.0,
+      "magnitude": 6.2,
+      "rightAscension": 13.7167,
+      "catalogId": "M3"
+    },
+    {
+      "name": "M4",
+      "type": "Шаровое скопление",
+      "declination": -26.5250,
+      "angularSize": 26.0,
+      "magnitude": 5.6,
+      "rightAscension": 16.3833,
+      "catalogId": "M4"
+    },
+    {
+      "name": "M5",
+      "type": "Шаровое скопление",
+      "declination": 2.0833,
+      "angularSize": 19.0,
+      "magnitude": 5.7,
+      "rightAscension": 15.2833,
+      "catalogId": "M5"
+    },
+    {
+      "name": "M6 (Бабочка)",
+      "type": "Рассеянное скопление",
+      "declination": -32.2000,
+      "angularSize": 25.0,
+      "magnitude": 4.2,
+      "rightAscension": 17.6667,
+      "catalogId": "M6"
+    },
+    {
+      "name": "M7 (Птолемея)",
+      "type": "Рассеянное скопление",
+      "declination": -34.8000,
+      "angularSize": 80.0,
+      "magnitude": 3.3,
+      "rightAscension": 17.8833,
+      "catalogId": "M7"
+    },
+    {
+      "name": "M8 (Лагуна)",
+      "type": "Эмиссионная туманность",
+      "declination": -24.3833,
+      "angularSize": 90.0,
+      "magnitude": 6.0,
+      "rightAscension": 18.0833,
+      "catalogId": "M8"
+    },
+    {
+      "name": "M10",
+      "type": "Шаровое скопление",
+      "declination": -4.1000,
+      "angularSize": 15.0,
+      "magnitude": 6.6,
+      "rightAscension": 16.9500,
+      "catalogId": "M10"
+    },
+    {
+      "name": "M11 (Дикая Утка)",
+      "type": "Рассеянное скопление",
+      "declination": -6.3000,
+      "angularSize": 14.0,
+      "magnitude": 6.3,
+      "rightAscension": 18.8500,
+      "catalogId": "M11"
+    },
+    {
+      "name": "M12",
+      "type": "Шаровое скопление",
+      "declination": -1.9500,
+      "angularSize": 14.0,
+      "magnitude": 6.7,
+      "rightAscension": 16.7833,
+      "catalogId": "M12"
+    },
+    {
+      "name": "M13 (Геркулеса)",
+      "type": "Шаровое скопление",
+      "declination": 36.4614,
+      "angularSize": 20.0,
+      "magnitude": 5.8,
+      "rightAscension": 16.6950,
+      "catalogId": "M13"
+    },
+    {
+      "name": "M15",
+      "type": "Шаровое скопление",
+      "declination": 12.1667,
+      "angularSize": 15.0,
+      "magnitude": 6.2,
+      "rightAscension": 21.4833,
+      "catalogId": "M15"
+    },
+    {
+      "name": "M16 (Орел)",
+      "type": "Эмиссионная туманность",
+      "declination": -13.8167,
+      "angularSize": 25.0,
+      "magnitude": 6.4,
+      "rightAscension": 18.3167,
+      "catalogId": "M16"
+    },
+    {
+      "name": "M17 (Омега)",
+      "type": "Эмиссионная туманность",
+      "declination": -16.1833,
+      "angularSize": 20.0,
+      "magnitude": 7.0,
+      "rightAscension": 18.3333,
+      "catalogId": "M17"
+    },
+    {
+      "name": "M20 (Трехраздельная)",
+      "type": "Эмиссионная туманность",
+      "declination": -23.0333,
+      "angularSize": 28.0,
+      "magnitude": 6.3,
+      "rightAscension": 18.0167,
+      "catalogId": "M20"
+    },
+    {
+      "name": "M22",
+      "type": "Шаровое скопление",
+      "declination": -23.9000,
+      "angularSize": 24.0,
+      "magnitude": 5.1,
+      "rightAscension": 18.6167,
+      "catalogId": "M22"
+    },
+    {
+      "name": "M27 (Гантель)",
+      "type": "Планетарная туманность",
+      "declination": 22.7167,
+      "angularSize": 8.0,
+      "magnitude": 7.4,
+      "rightAscension": 20.0000,
+      "catalogId": "M27"
+    },
+    {
+      "name": "M31 (Андромеда)",
+      "type": "Галактика",
+      "declination": 41.2692,
+      "angularSize": 178.0,
+      "magnitude": 3.4,
+      "rightAscension": 0.8489,
+      "catalogId": "M31"
+    },
+    {
+      "name": "M32",
+      "type": "Галактика",
+      "declination": 40.8667,
+      "angularSize": 8.0,
+      "magnitude": 8.1,
+      "rightAscension": 0.7000,
+      "catalogId": "M32"
+    },
+    {
+      "name": "M33 (Треугольника)",
+      "type": "Галактика",
+      "declination": 30.6611,
+      "angularSize": 70.0,
+      "magnitude": 5.7,
+      "rightAscension": 1.5500,
+      "catalogId": "M33"
+    },
+    {
+      "name": "M34",
+      "type": "Рассеянное скопление",
+      "declination": 42.7667,
+      "angularSize": 35.0,
+      "magnitude": 5.5,
+      "rightAscension": 2.7000,
+      "catalogId": "M34"
+    },
+    {
+      "name": "M35",
+      "type": "Рассеянное скопление",
+      "declination": 24.3333,
+      "angularSize": 25.0,
+      "magnitude": 5.3,
+      "rightAscension": 6.1333,
+      "catalogId": "M35"
+    },
+    {
+      "name": "M36",
+      "type": "Рассеянное скопление",
+      "declination": 34.1333,
+      "angularSize": 12.0,
+      "magnitude": 6.3,
+      "rightAscension": 5.5833,
+      "catalogId": "M36"
+    },
+    {
+      "name": "M37",
+      "type": "Рассеянное скопление",
+      "declination": 32.5500,
+      "angularSize": 15.0,
+      "magnitude": 6.2,
+      "rightAscension": 5.8833,
+      "catalogId": "M37"
+    },
+    {
+      "name": "M38",
+      "type": "Рассеянное скопление",
+      "declination": 35.8333,
+      "angularSize": 20.0,
+      "magnitude": 6.4,
+      "rightAscension": 5.4667,
+      "catalogId": "M38"
+    },
+    {
+      "name": "M39",
+      "type": "Рассеянное скопление",
+      "declination": 48.4333,
+      "angularSize": 30.0,
+      "magnitude": 5.5,
+      "rightAscension": 21.5333,
+      "catalogId": "M39"
+    },
+    {
+      "name": "M41",
+      "type": "Рассеянное скопление",
+      "declination": -20.7167,
+      "angularSize": 25.0,
+      "magnitude": 4.5,
+      "rightAscension": 6.7833,
+      "catalogId": "M41"
+    },
+    {
+      "name": "M42 (Орион)",
+      "type": "Эмиссионная туманность",
+      "declination": -5.3911,
+      "angularSize": 65.0,
+      "magnitude": 4.0,
+      "rightAscension": 5.5833,
+      "catalogId": "M42"
+    },
+    {
+      "name": "M43",
+      "type": "Эмиссионная туманность",
+      "declination": -5.2667,
+      "angularSize": 20.0,
+      "magnitude": 9.0,
+      "rightAscension": 5.5833,
+      "catalogId": "M43"
+    },
+    {
+      "name": "M44 (Ясли)",
+      "type": "Рассеянное скопление",
+      "declination": 19.6667,
+      "angularSize": 95.0,
+      "magnitude": 3.1,
+      "rightAscension": 8.6667,
+      "catalogId": "M44"
+    },
+    {
+      "name": "M45 (Плеяды)",
+      "type": "Рассеянное скопление",
+      "declination": 24.1167,
+      "angularSize": 110.0,
+      "magnitude": 1.6,
+      "rightAscension": 3.7833,
+      "catalogId": "M45"
+    },
+    {
+      "name": "M46",
+      "type": "Рассеянное скопление",
+      "declination": -14.8167,
+      "angularSize": 22.0,
+      "magnitude": 6.1,
+      "rightAscension": 7.7000,
+      "catalogId": "M46"
+    },
+    {
+      "name": "M47",
+      "type": "Рассеянное скопление",
+      "declination": -14.5000,
+      "angularSize": 25.0,
+      "magnitude": 4.4,
+      "rightAscension": 7.6167,
+      "catalogId": "M47"
+    },
+    {
+      "name": "M48",
+      "type": "Рассеянное скопление",
+      "declination": -5.8000,
+      "angularSize": 30.0,
+      "magnitude": 5.5,
+      "rightAscension": 8.2333,
+      "catalogId": "M48"
+    },
+    {
+      "name": "M49",
+      "type": "Галактика",
+      "declination": 8.0000,
+      "angularSize": 9.0,
+      "magnitude": 8.4,
+      "rightAscension": 12.4500,
+      "catalogId": "M49"
+    },
+    {
+      "name": "M50",
+      "type": "Рассеянное скопление",
+      "declination": -8.3333,
+      "angularSize": 15.0,
+      "magnitude": 5.9,
+      "rightAscension": 7.0500,
+      "catalogId": "M50"
+    },
+    {
+      "name": "M51 (Водоворот)",
+      "type": "Галактика",
+      "declination": 47.1958,
+      "angularSize": 11.0,
+      "magnitude": 8.4,
+      "rightAscension": 13.4967,
+      "catalogId": "M51"
+    },
+    {
+      "name": "M52",
+      "type": "Рассеянное скопление",
+      "declination": 61.5833,
+      "angularSize": 15.0,
+      "magnitude": 7.3,
+      "rightAscension": 23.4000,
+      "catalogId": "M52"
+    },
+    {
+      "name": "M53",
+      "type": "Шаровое скопление",
+      "declination": 18.1667,
+      "angularSize": 12.0,
+      "magnitude": 7.6,
+      "rightAscension": 13.2167,
+      "catalogId": "M53"
+    },
+    {
+      "name": "M56",
+      "type": "Шаровое скопление",
+      "declination": 30.1833,
+      "angularSize": 7.0,
+      "magnitude": 8.3,
+      "rightAscension": 19.2833,
+      "catalogId": "M56"
+    },
+    {
+      "name": "M57 (Кольцевая)",
+      "type": "Планетарная туманность",
+      "declination": 33.0300,
+      "angularSize": 1.4,
+      "magnitude": 9.7,
+      "rightAscension": 18.8983,
+      "catalogId": "M57"
+    },
+    {
+      "name": "M58",
+      "type": "Галактика",
+      "declination": 11.8167,
+      "angularSize": 5.0,
+      "magnitude": 9.7,
+      "rightAscension": 12.6333,
+      "catalogId": "M58"
+    },
+    {
+      "name": "M59",
+      "type": "Галактика",
+      "declination": 11.6000,
+      "angularSize": 5.0,
+      "magnitude": 9.6,
+      "rightAscension": 12.7000,
+      "catalogId": "M59"
+    },
+    {
+      "name": "M60",
+      "type": "Галактика",
+      "declination": 11.5500,
+      "angularSize": 7.0,
+      "magnitude": 8.8,
+      "rightAscension": 12.7000,
+      "catalogId": "M60"
+    },
+    {
+      "name": "M61",
+      "type": "Галактика",
+      "declination": 4.4667,
+      "angularSize": 6.0,
+      "magnitude": 9.7,
+      "rightAscension": 12.3667,
+      "catalogId": "M61"
+    },
+    {
+      "name": "M62",
+      "type": "Шаровое скопление",
+      "declination": -30.1167,
+      "angularSize": 12.0,
+      "magnitude": 6.5,
+      "rightAscension": 17.0167,
+      "catalogId": "M62"
+    },
+    {
+      "name": "M63 (Подсолнух)",
+      "type": "Галактика",
+      "declination": 42.0286,
+      "angularSize": 10.0,
+      "magnitude": 8.6,
+      "rightAscension": 13.2519,
+      "catalogId": "M63"
+    },
+    {
+      "name": "M64 (Черный Глаз)",
+      "type": "Галактика",
+      "declination": 21.6833,
+      "angularSize": 9.0,
+      "magnitude": 8.5,
+      "rightAscension": 12.9333,
+      "catalogId": "M64"
+    },
+    {
+      "name": "M65",
+      "type": "Галактика",
+      "declination": 13.0833,
+      "angularSize": 8.0,
+      "magnitude": 9.3,
+      "rightAscension": 11.3167,
+      "catalogId": "M65"
+    },
+    {
+      "name": "M66",
+      "type": "Галактика",
+      "declination": 12.9833,
+      "angularSize": 8.0,
+      "magnitude": 8.9,
+      "rightAscension": 11.3333,
+      "catalogId": "M66"
+    },
+    {
+      "name": "M67",
+      "type": "Рассеянное скопление",
+      "declination": 11.8000,
+      "angularSize": 25.0,
+      "magnitude": 6.9,
+      "rightAscension": 8.8500,
+      "catalogId": "M67"
+    },
+    {
+      "name": "M68",
+      "type": "Шаровое скопление",
+      "declination": -26.7333,
+      "angularSize": 10.0,
+      "magnitude": 7.8,
+      "rightAscension": 12.6500,
+      "catalogId": "M68"
+    },
+    {
+      "name": "M69",
+      "type": "Шаровое скопление",
+      "declination": -32.3500,
+      "angularSize": 7.0,
+      "magnitude": 7.6,
+      "rightAscension": 18.5167,
+      "catalogId": "M69"
+    },
+    {
+      "name": "M70",
+      "type": "Шаровое скопление",
+      "declination": -32.3000,
+      "angularSize": 8.0,
+      "magnitude": 7.9,
+      "rightAscension": 18.7167,
+      "catalogId": "M70"
+    },
+    {
+      "name": "M71",
+      "type": "Шаровое скопление",
+      "declination": 18.7667,
+      "angularSize": 7.0,
+      "magnitude": 8.2,
+      "rightAscension": 19.9500,
+      "catalogId": "M71"
+    },
+    {
+      "name": "M72",
+      "type": "Шаровое скопление",
+      "declination": -12.6167,
+      "angularSize": 6.0,
+      "magnitude": 9.3,
+      "rightAscension": 20.9000,
+      "catalogId": "M72"
+    },
+    {
+      "name": "M73",
+      "type": "Астеризм",
+      "declination": -12.6333,
+      "angularSize": 0.0,
+      "magnitude": 9.0,
+      "rightAscension": 20.9667,
+      "catalogId": "M73"
+    },
+    {
+      "name": "M74",
+      "type": "Галактика",
+      "declination": 15.7833,
+      "angularSize": 10.0,
+      "magnitude": 9.4,
+      "rightAscension": 1.6167,
+      "catalogId": "M74"
+    },
+    {
+      "name": "M75",
+      "type": "Шаровое скопление",
+      "declination": -21.9167,
+      "angularSize": 5.0,
+      "magnitude": 8.5,
+      "rightAscension": 20.1000,
+      "catalogId": "M75"
+    },
+    {
+      "name": "M76 (Малая Гантель)",
+      "type": "Планетарная туманность",
+      "declination": 51.5667,
+      "angularSize": 2.0,
+      "magnitude": 10.1,
+      "rightAscension": 1.7000,
+      "catalogId": "M76"
+    },
+    {
+      "name": "M77",
+      "type": "Галактика",
+      "declination": -0.0167,
+      "angularSize": 7.0,
+      "magnitude": 8.9,
+      "rightAscension": 2.7000,
+      "catalogId": "M77"
+    },
+    {
+      "name": "M78",
+      "type": "Эмиссионная туманность",
+      "declination": 0.0167,
+      "angularSize": 4.0,
+      "magnitude": 8.3,
+      "rightAscension": 5.7667,
+      "catalogId": "M78"
+    },
+    {
+      "name": "M79",
+      "type": "Шаровое скопление",
+      "declination": -24.5167,
+      "angularSize": 8.0,
+      "magnitude": 7.7,
+      "rightAscension": 5.3833,
+      "catalogId": "M79"
+    },
+    {
+      "name": "M80",
+      "type": "Шаровое скопление",
+      "declination": -22.9667,
+      "angularSize": 9.0,
+      "magnitude": 7.3,
+      "rightAscension": 16.2833,
+      "catalogId": "M80"
+    },
+    {
+      "name": "M81 (Боде)",
+      "type": "Галактика",
+      "declination": 69.0653,
+      "angularSize": 21.0,
+      "magnitude": 6.9,
+      "rightAscension": 9.9156,
+      "catalogId": "M81"
+    },
+    {
+      "name": "M82 (Сигара)",
+      "type": "Галактика",
+      "declination": 69.6797,
+      "angularSize": 9.0,
+      "magnitude": 8.4,
+      "rightAscension": 9.9178,
+      "catalogId": "M82"
+    },
+    {
+      "name": "M83 (Южная Вертушка)",
+      "type": "Галактика",
+      "declination": -29.8667,
+      "angularSize": 13.0,
+      "magnitude": 7.5,
+      "rightAscension": 13.6167,
+      "catalogId": "M83"
+    },
+    {
+      "name": "M84",
+      "type": "Галактика",
+      "declination": 12.8833,
+      "angularSize": 5.0,
+      "magnitude": 9.1,
+      "rightAscension": 12.4167,
+      "catalogId": "M84"
+    },
+    {
+      "name": "M85",
+      "type": "Галактика",
+      "declination": 18.1833,
+      "angularSize": 7.0,
+      "magnitude": 9.1,
+      "rightAscension": 12.4167,
+      "catalogId": "M85"
+    },
+    {
+      "name": "M86",
+      "type": "Галактика",
+      "declination": 12.9500,
+      "angularSize": 7.0,
+      "magnitude": 8.9,
+      "rightAscension": 12.4333,
+      "catalogId": "M86"
+    },
+    {
+      "name": "M87",
+      "type": "Галактика",
+      "declination": 12.3911,
+      "angularSize": 7.0,
+      "magnitude": 8.6,
+      "rightAscension": 12.5083,
+      "catalogId": "M87"
+    },
+    {
+      "name": "M88",
+      "type": "Галактика",
+      "declination": 14.4167,
+      "angularSize": 7.0,
+      "magnitude": 9.6,
+      "rightAscension": 12.5333,
+      "catalogId": "M88"
+    },
+    {
+      "name": "M89",
+      "type": "Галактика",
+      "declination": 12.5500,
+      "angularSize": 5.0,
+      "magnitude": 9.8,
+      "rightAscension": 12.5833,
+      "catalogId": "M89"
+    },
+    {
+      "name": "M90",
+      "type": "Галактика",
+      "declination": 13.1667,
+      "angularSize": 10.0,
+      "magnitude": 9.5,
+      "rightAscension": 12.6000,
+      "catalogId": "M90"
+    },
+    {
+      "name": "M91",
+      "type": "Галактика",
+      "declination": 14.5000,
+      "angularSize": 5.0,
+      "magnitude": 10.2,
+      "rightAscension": 12.5500,
+      "catalogId": "M91"
+    },
+    {
+      "name": "M92",
+      "type": "Шаровое скопление",
+      "declination": 43.1333,
+      "angularSize": 11.0,
+      "magnitude": 6.4,
+      "rightAscension": 17.2833,
+      "catalogId": "M92"
+    },
+    {
+      "name": "M93",
+      "type": "Рассеянное скопление",
+      "declination": -23.8667,
+      "angularSize": 10.0,
+      "magnitude": 6.2,
+      "rightAscension": 7.7333,
+      "catalogId": "M93"
+    },
+    {
+      "name": "M94",
+      "type": "Галактика",
+      "declination": 41.1167,
+      "angularSize": 11.0,
+      "magnitude": 8.2,
+      "rightAscension": 12.8333,
+      "catalogId": "M94"
+    },
+    {
+      "name": "M95",
+      "type": "Галактика",
+      "declination": 11.7000,
+      "angularSize": 7.0,
+      "magnitude": 9.7,
+      "rightAscension": 10.7167,
+      "catalogId": "M95"
+    },
+    {
+      "name": "M96",
+      "type": "Галактика",
+      "declination": 11.8167,
+      "angularSize": 6.0,
+      "magnitude": 9.2,
+      "rightAscension": 10.7833,
+      "catalogId": "M96"
+    },
+    {
+      "name": "M97 (Сова)",
+      "type": "Планетарная туманность",
+      "declination": 55.0167,
+      "angularSize": 3.4,
+      "magnitude": 9.9,
+      "rightAscension": 11.2333,
+      "catalogId": "M97"
+    },
+    {
+      "name": "M98",
+      "type": "Галактика",
+      "declination": 14.9000,
+      "angularSize": 9.0,
+      "magnitude": 10.1,
+      "rightAscension": 12.2333,
+      "catalogId": "M98"
+    },
+    {
+      "name": "M99",
+      "type": "Галактика",
+      "declination": 14.4167,
+      "angularSize": 5.0,
+      "magnitude": 9.9,
+      "rightAscension": 12.3167,
+      "catalogId": "M99"
+    },
+    {
+      "name": "M100",
+      "type": "Галактика",
+      "declination": 15.8167,
+      "angularSize": 7.0,
+      "magnitude": 9.3,
+      "rightAscension": 12.3667,
+      "catalogId": "M100"
+    },
+    {
+      "name": "M101 (Вертушка)",
+      "type": "Галактика",
+      "declination": 54.3492,
+      "angularSize": 27.0,
+      "magnitude": 7.9,
+      "rightAscension": 14.0511,
+      "catalogId": "M101"
+    },
+    {
+      "name": "M102",
+      "type": "Галактика",
+      "declination": 55.7833,
+      "angularSize": 5.0,
+      "magnitude": 9.9,
+      "rightAscension": 15.1000,
+      "catalogId": "M102"
+    },
+    {
+      "name": "M103",
+      "type": "Рассеянное скопление",
+      "declination": 60.6667,
+      "angularSize": 6.0,
+      "magnitude": 7.4,
+      "rightAscension": 1.5500,
+      "catalogId": "M103"
+    },
+    {
+      "name": "M104 (Сомбреро)",
+      "type": "Галактика",
+      "declination": -11.6231,
+      "angularSize": 9.0,
+      "magnitude": 8.0,
+      "rightAscension": 12.6650,
+      "catalogId": "M104"
+    },
+    {
+      "name": "M105",
+      "type": "Галактика",
+      "declination": 12.5833,
+      "angularSize": 5.0,
+      "magnitude": 9.3,
+      "rightAscension": 10.7667,
+      "catalogId": "M105"
+    },
+    {
+      "name": "M106",
+      "type": "Галактика",
+      "declination": 47.3039,
+      "angularSize": 18.0,
+      "magnitude": 8.4,
+      "rightAscension": 12.3111,
+      "catalogId": "M106"
+    },
+    {
+      "name": "M107",
+      "type": "Шаровое скопление",
+      "declination": -13.0500,
+      "angularSize": 8.0,
+      "magnitude": 7.9,
+      "rightAscension": 16.5333,
+      "catalogId": "M107"
+    },
+    {
+      "name": "M108",
+      "type": "Галактика",
+      "declination": 55.6667,
+      "angularSize": 8.0,
+      "magnitude": 10.0,
+      "rightAscension": 11.2000,
+      "catalogId": "M108"
+    },
+    {
+      "name": "M109",
+      "type": "Галактика",
+      "declination": 53.3667,
+      "angularSize": 8.0,
+      "magnitude": 9.8,
+      "rightAscension": 11.9500,
+      "catalogId": "M109"
+    },
+    {
+      "name": "M110",
+      "type": "Галактика",
+      "declination": 41.6833,
+      "angularSize": 17.0,
+      "magnitude": 8.0,
+      "rightAscension": 0.6667,
+      "catalogId": "M110"
+    },
+    {
+      "name": "NGC 224 (Андромеда)",
+      "type": "Галактика",
+      "declination": 41.2692,
+      "angularSize": 178.0,
+      "magnitude": 3.4,
+      "rightAscension": 0.8489,
+      "catalogId": "NGC224"
+    },
+    {
+      "name": "NGC 253",
+      "type": "Галактика",
+      "declination": -25.2889,
+      "angularSize": 25.0,
+      "magnitude": 7.3,
+      "rightAscension": 0.7833,
+      "catalogId": "NGC253"
+    },
+    {
+      "name": "NGC 869 (χ Персея)",
+      "type": "Рассеянное скопление",
+      "declination": 57.1300,
+      "angularSize": 30.0,
+      "magnitude": 4.3,
+      "rightAscension": 2.3000,
+      "catalogId": "NGC869"
+    },
+    {
+      "name": "NGC 884 (h Персея)",
+      "type": "Рассеянное скопление",
+      "declination": 57.2167,
+      "angularSize": 30.0,
+      "magnitude": 4.4,
+      "rightAscension": 2.3833,
+      "catalogId": "NGC884"
+    },
+    {
+      "name": "NGC 1976 (Орион)",
+      "type": "Эмиссионная туманность",
+      "declination": -5.3911,
+      "angularSize": 65.0,
+      "magnitude": 4.0,
+      "rightAscension": 5.5833,
+      "catalogId": "NGC1976"
+    },
+    {
+      "name": "NGC 2237 (Розетка)",
+      "type": "Эмиссионная туманность",
+      "declination": 5.0000,
+      "angularSize": 80.0,
+      "magnitude": 9.0,
+      "rightAscension": 6.5500,
+      "catalogId": "NGC2237"
+    },
+    {
+      "name": "NGC 2392 (Эскимос)",
+      "type": "Планетарная туманность",
+      "declination": 20.9167,
+      "angularSize": 0.8,
+      "magnitude": 10.1,
+      "rightAscension": 7.4833,
+      "catalogId": "NGC2392"
+    },
+    {
+      "name": "NGC 3372 (Киль)",
+      "type": "Эмиссионная туманность",
+      "declination": -59.6833,
+      "angularSize": 120.0,
+      "magnitude": 3.0,
+      "rightAscension": 10.7333,
+      "catalogId": "NGC3372"
+    },
+    {
+      "name": "NGC 5139 (Омега Центавра)",
+      "type": "Шаровое скопление",
+      "declination": -47.4795,
+      "angularSize": 36.0,
+      "magnitude": 3.7,
+      "rightAscension": 13.4200,
+      "catalogId": "NGC5139"
+    },
+    {
+      "name": "NGC 6205 (M13)",
+      "type": "Шаровое скопление",
+      "declination": 36.4614,
+      "angularSize": 20.0,
+      "magnitude": 5.8,
+      "rightAscension": 16.6950,
+      "catalogId": "NGC6205"
+    },
+    {
+      "name": "NGC 6543 (Кошачий Глаз)",
+      "type": "Планетарная туманность",
+      "declination": 66.6333,
+      "angularSize": 0.3,
+      "magnitude": 9.8,
+      "rightAscension": 17.9667,
+      "catalogId": "NGC6543"
+    },
+    {
+      "name": "NGC 6720 (M57)",
+      "type": "Планетарная туманность",
+      "declination": 33.0300,
+      "angularSize": 1.4,
+      "magnitude": 9.7,
+      "rightAscension": 18.8983,
+      "catalogId": "NGC6720"
+    },
+    {
+      "name": "NGC 6826 (Моргающая)",
+      "type": "Планетарная туманность",
+      "declination": 50.5167,
+      "angularSize": 0.5,
+      "magnitude": 8.8,
+      "rightAscension": 19.7833,
+      "catalogId": "NGC6826"
+    },
+    {
+      "name": "NGC 6960 (Западная вуаль)",
+      "type": "Остаток сверхновой",
+      "declination": 30.6667,
+      "angularSize": 70.0,
+      "magnitude": 7.0,
+      "rightAscension": 20.7833,
+      "catalogId": "NGC6960"
+    },
+    {
+      "name": "NGC 6992 (Восточная вуаль)",
+      "type": "Остаток сверхновой",
+      "declination": 31.7000,
+      "angularSize": 60.0,
+      "magnitude": 7.0,
+      "rightAscension": 20.9500,
+      "catalogId": "NGC6992"
+    },
+    {
+      "name": "NGC 7000 (Северная Америка)",
+      "type": "Эмиссионная туманность",
+      "declination": 44.5000,
+      "angularSize": 120.0,
+      "magnitude": 4.0,
+      "rightAscension": 20.9167,
+      "catalogId": "NGC7000"
+    },
+    {
+      "name": "NGC 7027",
+      "type": "Планетарная туманность",
+      "declination": 42.2000,
+      "angularSize": 0.2,
+      "magnitude": 10.0,
+      "rightAscension": 21.1167,
+      "catalogId": "NGC7027"
+    },
+    {
+      "name": "NGC 7293 (Улитка)",
+      "type": "Планетарная туманность",
+      "declination": -20.8333,
+      "angularSize": 16.0,
+      "magnitude": 7.3,
+      "rightAscension": 22.4833,
+      "catalogId": "NGC7293"
+    },
+    {
+      "name": "IC 434 (Конская Голова)",
+      "type": "Темная туманность",
+      "declination": -2.4667,
+      "angularSize": 60.0,
+      "magnitude": 0.0,
+      "rightAscension": 5.6833,
+      "catalogId": "IC434"
+    },
+    {
+      "name": "IC 1396",
+      "type": "Эмиссионная туманность",
+      "declination": 57.4667,
+      "angularSize": 170.0,
+      "magnitude": 0.0,
+      "rightAscension": 21.6333,
+      "catalogId": "IC1396"
+    },
+    {
+      "name": "IC 4605",
+      "type": "Эмиссионная туманность",
+      "declination": -25.2500,
+      "angularSize": 60.0,
+      "magnitude": 0.0,
+      "rightAscension": 16.7833,
+      "catalogId": "IC4605"
+    },
+    {
+      "name": "IC 5146 (Кокон)",
+      "type": "Эмиссионная туманность",
+      "declination": 47.2500,
+      "angularSize": 12.0,
+      "magnitude": 7.2,
+      "rightAscension": 21.8833,
+      "catalogId": "IC5146"
+    }
+  ]
+}
